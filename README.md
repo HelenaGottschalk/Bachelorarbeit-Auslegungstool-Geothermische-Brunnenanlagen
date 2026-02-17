@@ -1,0 +1,2 @@
+# Bachelorarbeit-Auslegungstool-Geothermische-Brunnenanlagen
+Effizientes Auslegungstool für geothermische Brunnenanlagen mit Berücksichtigung der Unsicherheiten der Untergrundeigenschaften.
