@@ -1,0 +1,8 @@
+numpy
+pandas
+ipywidgets
+sympy
+math
+matplotlib.pyplot
+IPython.display
+scipy
