@@ -1,7 +1,7 @@
 # Auslegungstool für geothermische Brunnenanlagen
 Mit Python und Jupyter Notebook
 
-In Bearbeitung seit Dezember 2025 (Abgabe 15.03.2026)
+In Bearbeitung seit Dezember 2025 (Abgabe 16.03.2026)
 ## Kurzbeschreibung:
 Das Jupyter Notebook ist ein strukturiertes Auslegungswerkzeug zur Planung oberflächennaher geothermischer Brunnenanlagen. 
 
