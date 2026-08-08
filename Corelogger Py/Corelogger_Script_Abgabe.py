@@ -268,6 +268,7 @@ def plot_section(df, section_start, section_end):
     df_imp = df[(df["Imp [kg/m2s]"] >= den_min*vel_min) & (df["Imp [kg/m2s]"] <= den_max*vel_max)]
     mask = (df["SB DEPTH [m]"] >= section_start) & (df["SB DEPTH [m]"] <= section_end)
     fig1 = plt.figure(figsize=(10, 6))
+    fig1.suptitle(f"Core Section: {section_start}-{section_end} m", fontsize=14)
     # Change last value if image is shown distorted
     gs = GridSpec(1, 4, width_ratios=[1, 1, 1, 0.4], wspace=0.3)
 
